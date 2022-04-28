@@ -2,6 +2,7 @@ Nesse repositório estarão presentes os contéudos do nosso projeto interdiscip
 
 	Grupo composto por: Douglas Hugo
 			    Gabriel Pedro
-			    Leandro Alves
+			    Leandro Augusto Alves
 			    Mateus Favetta
-			    Régis
+			    Régis Paulo Bento Ferreira 
+			    Valdelaine Cristina Ribeiro
