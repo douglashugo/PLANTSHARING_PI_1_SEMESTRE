@@ -1,0 +1,243 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+
+.nav-align{
+    display: flex;
+    align-items: center;
+}
+
+
+.nav-background {
+    background-color: rgb(3, 89, 64);
+}
+
+.containerr {
+    display: flex;
+    align-items: center;
+    height: 390px;
+    
+
+}
+
+.titulo {
+    color: rgb(95, 59, 43);
+    text-align: left;
+    width: 400px;
+    font-size: 50px;
+    font-family: 'Quicksand', sans-serif;
+    position: absolute;
+    left: calc(100% - 70% - 200px);
+
+}
+
+.capa {
+    
+    border-radius: 0px;
+    position: absolute;
+    left: calc(100% - 25% - 190px);
+
+
+}
+
+.section1 {
+    display: flex;
+    align-items: center;
+    background-color: rgb(240, 244, 243);
+    height: 400px;
+
+}
+
+.suculenta {
+    position: absolute;
+    left: calc(100% - 75% - 190px);
+    
+    
+}
+
+.ambiente {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 40px;
+    width: 400px; 
+    position: absolute;
+    left: calc(100% - 25% - 200px);
+    
+}
+
+.section2 {
+    display: flex;
+    align-items: center;
+    height: 300px;
+}
+
+.scan {
+    border-radius: 100%;
+    position: absolute;
+    left: calc(100% - 30% - 150px);
+    
+}
+
+.texto1 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 40px;
+    width: 400px;
+    position: absolute;
+    left: calc(100% - 70% - 200px);
+    
+
+}
+
+.section3{
+    display: flex;
+    align-items: center;
+    height: 350px;
+    background-color: rgb(240, 244, 243);
+}
+
+.social{
+    position: absolute;
+    left: calc(100% - 75% - 175px);
+    
+}
+
+.texto2{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 40px;
+    width: 400px;
+    position: absolute;
+    left: calc(100% - 25% - 200px);
+}
+
+.categ{
+    background-color: rgb(3, 89, 64);
+    color:white;
+}
+
+.bodylogin{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(./_img/login2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.pcards{
+    font-size: 30px;
+}
+
+
+
+.bordacirc{
+    border-radius: 10px;
+}
+
+
+
+.body-content{
+    /** altura do rodapé tem que ser igual a isso aqui e vice-versa **/
+  padding-bottom: 30px;
+}
+
+
+
+
+.login{
+    background-color: rgb(3, 89, 64);
+    padding: 20px;
+    margin: 250px;
+    border-radius: 80px 0px 80px 0px;
+}
+
+.h1login{
+    text-align: center;
+    color: white;
+}
+
+.blogin{
+    background-color: white;
+}
+
+.mflores{
+    padding: 50px;
+    
+}
+
+.imgflor{
+    display: flex; 
+}
+
+.h2flores{
+   
+    text-align: left;
+    font-size: 40px;
+}
+
+.descflores{
+   
+    text-align: start;
+
+    
+}
+
+.pdescflores{
+   
+    text-align: justify;
+}
+
+
+
+.h1sobre{
+    padding: 50px;
+    
+    text-align: center;
+}
+
+.psobre{
+    padding: 40px;
+    color: white;
+    background-color: rgb(3, 89, 64);
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 25px;
+   
+    text-align: center;
+    border-radius: 80px;
+    box-shadow:  10px 5px 5px rgba(0, 0, 0, 0.288);;
+}
+
+.imgsobre{
+    margin-top: 15%;
+    padding: 20px;
+    width: 98%;
+    height: 90%;
+}
+
+.divduvidas{
+    padding: 50px;
+    
+}
+
+.formfale{
+  
+    margin-left: 15%;
+    
+}
+
+.h2fale{
+    
+    text-align: center;
+}
+
+.strong{
+    font-weight: bold;
+}
+
+.imgg{
+    margin-left: 45px;
+}
